@@ -1,0 +1,61 @@
+test3
+test3-2
+test3-3
+total 212
+-rw-r----- 1 wang1247 wang1247    0 Mar 13 21:54 "hello
+drwxr-s--- 3 wang1247 wang1247 4096 Mar 14 15:16 .
+drwxr-s--- 5 wang1247 wang1247 4096 Mar 14 15:16 ..
+-rw-r----- 1 wang1247 wang1247  718 Feb  7 13:54 README
+-rw-r----- 1 wang1247 wang1247    0 Mar 14 15:16 bgfile
+-rw-r----- 1 wang1247 wang1247   30 Mar 14 15:16 err1
+-rw-r----- 1 wang1247 wang1247   57 Mar 14 15:16 err2
+-rw-r----- 1 wang1247 wang1247   22 Mar 14 15:16 file-list
+-rwxr-x--- 1 wang1247 wang1247 3727 Feb  7 13:54 file1.cc
+drwxr-s--- 2 wang1247 wang1247 4096 Feb  7 13:54 files
+-rw-r----- 1 wang1247 wang1247    0 Mar 14 15:16 hello world
+-rw-r--r-- 1 wang1247 wang1247 1934 Mar 14 14:23 lab3-src-kbd.tar.gz
+-rw-r----- 1 wang1247 wang1247  233 Mar 14 15:16 out
+-rw-r----- 1 wang1247 wang1247   47 Mar 14 15:16 shell-in
+-rw-r----- 1 wang1247 wang1247   22 Mar 14 15:16 shell-out
+-rwxr-x--- 1 wang1247 wang1247  279 Feb  7 13:54 test1
+-rwxr-x--- 1 wang1247 wang1247  659 Feb  7 13:54 test10
+-rwxr-x--- 1 wang1247 wang1247  297 Feb  7 13:54 test102
+-rwxr-x--- 1 wang1247 wang1247  329 Feb  7 13:54 test103
+-rwxr-x--- 1 wang1247 wang1247  303 Feb  7 13:54 test104
+-rwxr-x--- 1 wang1247 wang1247  294 Feb  7 13:54 test105
+-rwxr-x--- 1 wang1247 wang1247  297 Feb  7 13:54 test106
+-rwxr-x--- 1 wang1247 wang1247  325 Feb  7 13:54 test107
+-rwxr-x--- 1 wang1247 wang1247  312 Feb  7 13:54 test108
+-rwxr-x--- 1 wang1247 wang1247  324 Feb  7 13:54 test109
+-rwxr-x--- 1 wang1247 wang1247  281 Feb  7 13:54 test11
+-rwxr-x--- 1 wang1247 wang1247  321 Feb  7 13:54 test110
+-rwxr-x--- 1 wang1247 wang1247  385 Feb  7 13:54 test111
+-rwxr-x--- 1 wang1247 wang1247  285 Feb  7 13:54 test112
+-rwxr-x--- 1 wang1247 wang1247  298 Feb  7 13:54 test112-2
+-rwxr-x--- 1 wang1247 wang1247  358 Feb  7 13:54 test113
+-rwxr-x--- 1 wang1247 wang1247  409 Feb  7 13:54 test114
+-rwxr-x--- 1 wang1247 wang1247  285 Feb  7 13:54 test115
+-rwxr-x--- 1 wang1247 wang1247  272 Feb  7 13:54 test116
+-rwxr-x--- 1 wang1247 wang1247  459 Mar  9 23:11 test12
+-rwxr-x--- 1 wang1247 wang1247  328 Feb  7 13:54 test13
+-rwxr-x--- 1 wang1247 wang1247  371 Feb  7 13:54 test14
+-rwxr-x--- 1 wang1247 wang1247  439 Feb  7 13:54 test15
+-rwxr-x--- 1 wang1247 wang1247  333 Feb  7 13:54 test16
+-rwxr-x--- 1 wang1247 wang1247  323 Feb  7 13:54 test17
+-rwxr-x--- 1 wang1247 wang1247  308 Feb  7 13:54 test18
+-rwxr-x--- 1 wang1247 wang1247  275 Feb  7 13:54 test2
+-rwxr-x--- 1 wang1247 wang1247  483 Feb  7 13:54 test201
+-rwxr-x--- 1 wang1247 wang1247 1454 Feb  7 13:54 test202
+-rwxr-x--- 1 wang1247 wang1247  398 Feb  7 13:54 test203
+-rwxr-x--- 1 wang1247 wang1247  555 Mar 14 14:10 test204
+-rwxr-x--- 1 wang1247 wang1247  309 Feb  7 13:54 test3
+-rwxr-x--- 1 wang1247 wang1247  450 Feb  7 13:54 test3-2
+-rwxr-x--- 1 wang1247 wang1247  575 Feb  7 13:54 test3-3
+-rwxr-x--- 1 wang1247 wang1247  282 Feb  7 13:54 test4
+-rwxr-x--- 1 wang1247 wang1247  268 Feb  7 13:54 test5
+-rwxr-x--- 1 wang1247 wang1247  279 Feb  7 13:54 test6
+-rwxr-x--- 1 wang1247 wang1247  345 Feb  7 13:54 test7
+-rwxr-x--- 1 wang1247 wang1247  366 Feb  7 13:54 test8
+-rwxr-x--- 1 wang1247 wang1247  247 Feb  7 13:54 test9
+-rwxr-x--- 1 wang1247 wang1247 3990 Mar 14 14:05 testall
+-rw-r----- 1 wang1247 wang1247    0 Mar 13 21:54 world"
